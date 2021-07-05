@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeDepartment"
+        xmlns:Controls="clr-namespace:EmployeeDepartment.Controls;assembly=EmployeeDepartment.Controls" x:Class="EmployeeDepartment.EmployeeEditor"
+        mc:Ignorable="d"
+        Title="Employee         " Height="289.039" Width="416.122">
+    <Grid Margin="-1,1,1,-2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Controls:EmployeeControl x:Name="EmployeeControl" Margin="15,8,0,0" Height="156" HorizontalAlignment="Left" Width="366" VerticalAlignment="Top"/>
+        <Button x:Name="btnOK" Content="OK" Margin="187,218,0,0" VerticalAlignment="Top" Click="btnOK_Click" RenderTransformOrigin="0.5,0.5" Height="22" HorizontalAlignment="Left" Width="75">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.398"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnCancel" Content="Отмена" Margin="278,220,0,0" VerticalAlignment="Top" Click="btnCancel_Click" HorizontalAlignment="Left" Width="74"/>
+        <Label x:Name="label" Content="Департамент" HorizontalAlignment="Left" Margin="30,169,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbDepartment" HorizontalAlignment="Left" Margin="146,175,0,0" VerticalAlignment="Top" Width="227"/>
+
+    </Grid>
+</Window>

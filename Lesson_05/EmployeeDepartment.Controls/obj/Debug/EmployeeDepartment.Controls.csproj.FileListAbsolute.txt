@@ -1,0 +1,14 @@
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\bin\Debug\EmployeeDepartment.Controls.dll
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\bin\Debug\EmployeeDepartment.Controls.pdb
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.csprojResolveAssemblyReference.cache
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.Properties.Resources.resources
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.csproj.GenerateResource.Cache
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.dll
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.pdb
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\bin\Debug\EmployeeDepartment.Data.dll
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\bin\Debug\EmployeeDepartment.Data.pdb
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeControl.g.cs
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls_MarkupCompile.cache
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls_MarkupCompile.lref
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeControl.baml
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Controls\obj\Debug\EmployeeDepartment.Controls.g.resources
