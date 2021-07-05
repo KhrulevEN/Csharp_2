@@ -1,0 +1,5 @@
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Data\bin\Debug\EmployeeDepartment.Data.dll
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Data\bin\Debug\EmployeeDepartment.Data.pdb
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Data\obj\Debug\EmployeeDepartment.Data.dll
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Data\obj\Debug\EmployeeDepartment.Data.pdb
+C:\gb\Csharp_02\Lesson_05\EmployeeDepartment.Data\obj\Debug\EmployeeDepartment.Data.csprojResolveAssemblyReference.cache
